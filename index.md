@@ -17,7 +17,7 @@
 
 ---
 
-### Example Code Repository
+### General Code Repository
 
 You can view more of my code in my general [data science code repository](https://github.com/dmc-au/data-science).
 
