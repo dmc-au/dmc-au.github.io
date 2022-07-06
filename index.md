@@ -17,13 +17,9 @@
 
 ---
 
-### Category Name 2
+### Example Code Repository
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+You can view more of my code in my general [data science code repository](https://github.com/dmc-au/data-science).
 
 ---
 
