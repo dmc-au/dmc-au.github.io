@@ -6,13 +6,15 @@
 
 [The Twin Spirals Problem](https://github.com/dmc-au/twin-spirals)
 
-This project visually explores how the framing of a problem can dramatically affect the training performance of neural networks.
+This project visually explores the power of problem representation and the effects on training performance of neural networks.
 
-Classification with a poor problem representation using cartesian coordinates:
-<img src="https://raw.githubusercontent.com/dmc-au/twin-spirals/main/images/raw_out.png"/>
+Poor performance: Classification with cartesian co-ordinates and large architecture:
+<img src="https://raw.githubusercontent.com/dmc-au/twin-spirals/main/images/raw_out.png" width="500" height="400"/>
+<img src="https://raw.githubusercontent.com/dmc-au/twin-spirals/main/rawnet.png" width="500" height="400"/>
 
-Classification with an effective problem representation using polar coordinates:
-<img src="https://raw.githubusercontent.com/dmc-au/twin-spirals/main/images/polar_out.png"/>
+Superior performance: Classification with polar co-ordinates and small architecture:
+<img src="https://raw.githubusercontent.com/dmc-au/twin-spirals/main/images/polar_out.png" width="500" height="400"/>
+<img src="https://raw.githubusercontent.com/dmc-au/twin-spirals/main/polarnet.png" width="325" height="400"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
