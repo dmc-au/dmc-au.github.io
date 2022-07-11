@@ -28,7 +28,7 @@ Classification with an effective problem representation using polar coordinates:
 
 ### General Code Repository
 
-You can view more of my code in my general [data science code repository](https://github.com/dmc-au/data-science).
+You can view more examples of my code in my general [data science code repository](https://github.com/dmc-au/data-science).
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
