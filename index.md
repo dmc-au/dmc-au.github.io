@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Perpsective and Symmetry](https://github.com/dmc-au/twin-spirals)
+<img src="https://raw.githubusercontent.com/dmc-au/twin-spirals/main/images/polar_1_10.gif"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
