@@ -6,7 +6,7 @@
 
 [The Twin Spirals Problem](https://github.com/dmc-au/twin-spirals)
 
-This project visually explores the power of problem representation and the effects on training performance of neural networks.
+This project visually explores the power of problem representation and the effects on the training performance of neural networks.
 
 Poor performance: Classification with cartesian co-ordinates and large architecture:
 <img src="https://raw.githubusercontent.com/dmc-au/twin-spirals/main/images/raw_out.png" width="500" height="400"/>
@@ -15,14 +15,6 @@ Poor performance: Classification with cartesian co-ordinates and large architect
 Superior performance: Classification with polar co-ordinates and small architecture:
 <img src="https://raw.githubusercontent.com/dmc-au/twin-spirals/main/images/polar_out.png" width="500" height="400"/>
 <img src="https://raw.githubusercontent.com/dmc-au/twin-spirals/main/polarnet.png" width="325" height="400"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
