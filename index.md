@@ -6,7 +6,7 @@
 
 [The Twin Spirals Problem](https://github.com/dmc-au/twin-spirals)
 
-This project visually explores the power of problem representation and the effects on the training performance of neural networks.
+This project visually explores the power of problem representation on the training performance of neural networks.
 
 Poor performance: Classification with cartesian co-ordinates and large architecture:
 <img src="https://raw.githubusercontent.com/dmc-au/twin-spirals/main/images/raw_out.png" width="500" height="400"/>
