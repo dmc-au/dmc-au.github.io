@@ -4,7 +4,7 @@
 
 ### Projects
 
-[Perpsective and Symmetry](https://github.com/dmc-au/twin-spirals)
+[Perpsective, Symmetry, and Neural Networks](https://github.com/dmc-au/twin-spirals)
 <img src="https://raw.githubusercontent.com/dmc-au/twin-spirals/main/images/polar_1_10.gif"/>
 
 ---
