@@ -2,14 +2,18 @@
 
 ---
 
-### Posts
+### Projects
 
-[Perpsective, Symmetry, and Neural Networks](https://github.com/dmc-au/twin-spirals)
+[The Twin Spirals Problem](https://github.com/dmc-au/twin-spirals)
 
-Poor representation:
+This project visually explores how the framing of a problem can dramatically affect the training performance of neural networks.
+
+Classification with a poor problem representation using cartesian coordinates:
+
 <img src="https://raw.githubusercontent.com/dmc-au/twin-spirals/main/images/raw_out.png"/>
 
-Efficient representation:
+Classification with an effective problem representation using polar coordinates:
+
 <img src="https://raw.githubusercontent.com/dmc-au/twin-spirals/main/images/polar_out.png"/>
 
 ---
