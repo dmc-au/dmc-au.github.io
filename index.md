@@ -2,10 +2,14 @@
 
 ---
 
-### Projects
+### Posts
 
 [Perpsective, Symmetry, and Neural Networks](https://github.com/dmc-au/twin-spirals)
-<img src="https://raw.githubusercontent.com/dmc-au/twin-spirals/main/images/polar_1_10.gif"/>
+Poor representation:
+<img src="https://raw.githubusercontent.com/dmc-au/twin-spirals/main/images/raw_out.png"/>
+
+Efficient representation:
+<img src="https://raw.githubusercontent.com/dmc-au/twin-spirals/main/images/polar_out.png/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
