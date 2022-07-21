@@ -10,11 +10,9 @@ This project visually explores the power of problem representation on the traini
 
 Poor performance: Classification with cartesian co-ordinates and large architecture:
 <img src="https://raw.githubusercontent.com/dmc-au/twin-spirals/main/images/raw_out.png" width="500" height="400"/>
-<img src="https://raw.githubusercontent.com/dmc-au/twin-spirals/main/rawnet.png" width="500" height="400"/>
 
 Superior performance: Classification with polar co-ordinates and small architecture:
 <img src="https://raw.githubusercontent.com/dmc-au/twin-spirals/main/images/polar_out.png" width="500" height="400"/>
-<img src="https://raw.githubusercontent.com/dmc-au/twin-spirals/main/polarnet.png" width="325" height="400"/>
 
 ---
 
